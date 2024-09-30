@@ -23,7 +23,7 @@ def fetch_pull_requests():
     """Fetches all open pull requests from the repository."""
     all_prs = []
     page = 1
-    
+    print(API_URL)
     while True:
         response = requests.get(API_URL, headers=headers, params={"state": "open", "per_page": 100, "page": page})
         
