@@ -1,6 +1,7 @@
 import requests
 import json
 from datetime import datetime
+import os
 
 # GitHub configuration
 GITHUB_TOKEN = os.getenv('MY_SECRET')
