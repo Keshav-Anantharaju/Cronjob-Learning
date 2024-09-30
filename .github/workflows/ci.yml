@@ -1,0 +1,27 @@
+name: Example Workflow
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Use GitHub Secret
+        env:
+          MY_SECRET: ${{ secrets.GH_TOKEN }} 
+        run: |
+          echo "Using secret..."
+          # Example command using the secret
+          # This command will not display the secret
+          echo "The secret is set."
+      - name: Run python script    
+        run:
+          python3 TestSecrets.py
+      

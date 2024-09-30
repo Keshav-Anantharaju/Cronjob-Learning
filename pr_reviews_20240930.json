@@ -1,0 +1,1144 @@
+{
+    "3960": [
+        {
+            "reviewer": "mariocodesforfun",
+            "timestamp": "2024-09-30T05:56:53Z",
+            "pr_title": "ISS-3677: Fortune Acquisitions Homewise Bot enhancements",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3960"
+        }
+    ],
+    "3958": [
+        {
+            "reviewer": "mariocodesforfun",
+            "timestamp": "2024-09-30T05:57:05Z",
+            "pr_title": "ISS-3676: Homewise Bot Corner Cases Sept 27th",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3958"
+        }
+    ],
+    "3957": [
+        {
+            "reviewer": "mariocodesforfun",
+            "timestamp": "2024-09-30T05:57:14Z",
+            "pr_title": "ISS-3488: Community Archives and Homewise bot issues sept 23rd",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3957"
+        }
+    ],
+    "3956": [
+        {
+            "reviewer": "mariocodesforfun",
+            "timestamp": "2024-09-30T05:57:26Z",
+            "pr_title": "ISS-3643: Vylla Title - Remove prelisting validation",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3956"
+        }
+    ],
+    "3955": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-28T09:46:21Z",
+            "pr_title": "Seller-Pay-First-NoneType",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3955"
+        }
+    ],
+    "3954": [
+        {
+            "reviewer": "Fre-an",
+            "timestamp": "2024-09-30T04:08:11Z",
+            "pr_title": "ISS-2649: Adding Validations/Checkpoints to the Order Processing Process (Basic Version)",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3954"
+        }
+    ],
+    "3953": [
+        {
+            "reviewer": "HussR98",
+            "timestamp": "2024-09-27T16:44:02Z",
+            "pr_title": "ISS-3489-Dynamic-Prioritization-P0-Additional-Request-Orders",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3953"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-29T06:41:27Z",
+            "pr_title": "ISS-3489-Dynamic-Prioritization-P0-Additional-Request-Orders",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3953"
+        }
+    ],
+    "3952": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T13:41:16Z",
+            "pr_title": "DevRev-Integration-with-Slack",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3952"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-27T13:44:59Z",
+            "pr_title": "DevRev-Integration-with-Slack",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3952"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-27T13:50:27Z",
+            "pr_title": "DevRev-Integration-with-Slack",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3952"
+        },
+        {
+            "reviewer": "HussR98",
+            "timestamp": "2024-09-27T14:11:47Z",
+            "pr_title": "DevRev-Integration-with-Slack",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3952"
+        }
+    ],
+    "3951": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-29T06:50:15Z",
+            "pr_title": "ISS-3591-Exclude-Non-Delivery-and-No-Reply-Emails-from-Last-Email-Received-Timestamp",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3951"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-30T06:10:17Z",
+            "pr_title": "ISS-3591-Exclude-Non-Delivery-and-No-Reply-Emails-from-Last-Email-Received-Timestamp",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3951"
+        }
+    ],
+    "3949": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T13:27:09Z",
+            "pr_title": "ISS-3515:Notify eng-oncall when scrapper failed to trigger",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3949"
+        }
+    ],
+    "3948": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T06:54:29Z",
+            "pr_title": "ISS-3626: PB KeyError main.accept_po_csm",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3948"
+        }
+    ],
+    "3947": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T06:55:42Z",
+            "pr_title": "ISS-3233-AI-check-update",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3947"
+        }
+    ],
+    "3945": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T13:21:40Z",
+            "pr_title": "ISS-3265-duplicate-mortgage",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3945"
+        },
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-27T07:51:24Z",
+            "pr_title": "ISS-3265-duplicate-mortgage",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3945"
+        }
+    ],
+    "3944": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-26T11:58:40Z",
+            "pr_title": "ISS-2416-Authorisation-tag-on-mortgage-payoff-orders",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3944"
+        },
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-26T11:58:51Z",
+            "pr_title": "ISS-2416-Authorisation-tag-on-mortgage-payoff-orders",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3944"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T12:14:31Z",
+            "pr_title": "ISS-2416-Authorisation-tag-on-mortgage-payoff-orders",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3944"
+        }
+    ],
+    "3943": [
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-26T08:30:34Z",
+            "pr_title": "ISS-3548: cancel rates invoicing tab",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3943"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T13:27:13Z",
+            "pr_title": "ISS-3548: cancel rates invoicing tab",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3943"
+        }
+    ],
+    "3941": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-26T07:51:36Z",
+            "pr_title": "ISS-3170-Doc-Checker-Page-Revamp-Renaming",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3941"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T14:38:46Z",
+            "pr_title": "ISS-3170-Doc-Checker-Page-Revamp-Renaming",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3941"
+        }
+    ],
+    "3940": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-26T06:41:52Z",
+            "pr_title": "ISS-3561-New-Client-Creation-Enabling-All-Services",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3940"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-26T07:51:44Z",
+            "pr_title": "ISS-3561-New-Client-Creation-Enabling-All-Services",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3940"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T12:05:12Z",
+            "pr_title": "ISS-3561-New-Client-Creation-Enabling-All-Services",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3940"
+        }
+    ],
+    "3939": [
+        {
+            "reviewer": "kaskous",
+            "timestamp": "2024-09-26T08:53:40Z",
+            "pr_title": "Iss 2720 document grid automation",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3939"
+        },
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-27T13:33:26Z",
+            "pr_title": "Iss 2720 document grid automation",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3939"
+        }
+    ],
+    "3936": [
+        {
+            "reviewer": "kcbiradar",
+            "timestamp": "2024-09-25T16:41:18Z",
+            "pr_title": "ISS-3543: Strip spaces and Split seller name ",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3936"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T06:56:00Z",
+            "pr_title": "ISS-3543: Strip spaces and Split seller name ",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3936"
+        }
+    ],
+    "3935": [
+        {
+            "reviewer": "HussR98",
+            "timestamp": "2024-09-25T15:14:48Z",
+            "pr_title": "For no hoa order status or",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3935"
+        },
+        {
+            "reviewer": "kcbiradar",
+            "timestamp": "2024-09-25T15:14:59Z",
+            "pr_title": "For no hoa order status or",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3935"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T12:09:00Z",
+            "pr_title": "For no hoa order status or",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3935"
+        }
+    ],
+    "3934": [
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-25T15:30:10Z",
+            "pr_title": "ISS-3442: Add validation for included",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3934"
+        }
+    ],
+    "3932": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-25T13:40:54Z",
+            "pr_title": "ISS-3309-Accept-order-button-for-FPOs",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3932"
+        },
+        {
+            "reviewer": "HussR98",
+            "timestamp": "2024-09-25T14:45:14Z",
+            "pr_title": "ISS-3309-Accept-order-button-for-FPOs",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3932"
+        },
+        {
+            "reviewer": "kcbiradar",
+            "timestamp": "2024-09-26T04:55:47Z",
+            "pr_title": "ISS-3309-Accept-order-button-for-FPOs",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3932"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T06:40:14Z",
+            "pr_title": "ISS-3309-Accept-order-button-for-FPOs",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3932"
+        }
+    ],
+    "3928": [
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-25T09:33:54Z",
+            "pr_title": "ISS-3427: pagination/filter client team",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3928"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-25T09:35:11Z",
+            "pr_title": "ISS-3427: pagination/filter client team",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3928"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T12:26:58Z",
+            "pr_title": "ISS-3427: pagination/filter client team",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3928"
+        }
+    ],
+    "3927": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T12:41:05Z",
+            "pr_title": "ISS-3525: New endpoint for power automate bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3927"
+        }
+    ],
+    "3925": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-25T10:03:11Z",
+            "pr_title": "ISS-3152:ISS-3162:ISS-3035: New requirements for hankin pack homewise bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3925"
+        },
+        {
+            "reviewer": "mariocodesforfun",
+            "timestamp": "2024-09-26T21:04:18Z",
+            "pr_title": "ISS-3152:ISS-3162:ISS-3035: New requirements for hankin pack homewise bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3925"
+        }
+    ],
+    "3923": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-24T06:18:31Z",
+            "pr_title": "Rexera-re-branding",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3923"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-24T13:08:46Z",
+            "pr_title": "Rexera-re-branding",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3923"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-25T05:11:42Z",
+            "pr_title": "Rexera-re-branding",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3923"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T13:43:10Z",
+            "pr_title": "Rexera-re-branding",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3923"
+        }
+    ],
+    "3921": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-24T11:51:43Z",
+            "pr_title": "ISS-3379-Validation-to-check-ocr-status-before-generating-lien-report",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3921"
+        },
+        {
+            "reviewer": "HussR98",
+            "timestamp": "2024-09-25T13:32:27Z",
+            "pr_title": "ISS-3379-Validation-to-check-ocr-status-before-generating-lien-report",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3921"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-25T13:37:36Z",
+            "pr_title": "ISS-3379-Validation-to-check-ocr-status-before-generating-lien-report",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3921"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T13:49:06Z",
+            "pr_title": "ISS-3379-Validation-to-check-ocr-status-before-generating-lien-report",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3921"
+        }
+    ],
+    "3920": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-23T11:13:17Z",
+            "pr_title": "ISS-3436: PB - Pop-up to use homewise bot is showing for SFR acquisitions ",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3920"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-23T13:13:02Z",
+            "pr_title": "ISS-3436: PB - Pop-up to use homewise bot is showing for SFR acquisitions ",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3920"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T07:08:39Z",
+            "pr_title": "ISS-3436: PB - Pop-up to use homewise bot is showing for SFR acquisitions ",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3920"
+        }
+    ],
+    "3919": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T14:06:18Z",
+            "pr_title": "ISS-3305: Status changes to home sale cancelled or cancelled",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3919"
+        },
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-28T15:13:33Z",
+            "pr_title": "ISS-3305: Status changes to home sale cancelled or cancelled",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3919"
+        }
+    ],
+    "3917": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-23T04:07:26Z",
+            "pr_title": "ISS-3408: Enhance UI and Logic for CO Docs Availability Button",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3917"
+        },
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-23T06:46:24Z",
+            "pr_title": "ISS-3408: Enhance UI and Logic for CO Docs Availability Button",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3917"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T14:12:42Z",
+            "pr_title": "ISS-3408: Enhance UI and Logic for CO Docs Availability Button",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3917"
+        }
+    ],
+    "3914": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T10:09:44Z",
+            "pr_title": "Iss 2941 homewise docs upload automation",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3914"
+        },
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-27T13:04:34Z",
+            "pr_title": "Iss 2941 homewise docs upload automation",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3914"
+        }
+    ],
+    "3913": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T15:57:26Z",
+            "pr_title": "ISS-3535: master demand letter status",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3913"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-27T14:58:44Z",
+            "pr_title": "ISS-3535: master demand letter status",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3913"
+        }
+    ],
+    "3908": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-20T06:45:29Z",
+            "pr_title": "Duplicate templates deleted",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3908"
+        },
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-20T08:54:40Z",
+            "pr_title": "Duplicate templates deleted",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3908"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T16:08:33Z",
+            "pr_title": "Duplicate templates deleted",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3908"
+        }
+    ],
+    "3907": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T16:10:05Z",
+            "pr_title": "ISS-3337 rush approval",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3907"
+        }
+    ],
+    "3900": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T16:15:35Z",
+            "pr_title": "[ISS-3304] PM Name in resale cert QA added",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3900"
+        }
+    ],
+    "3887": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-17T05:27:16Z",
+            "pr_title": "ISS-3002: Add mailing address tokenization runbook",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3887"
+        },
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-17T18:03:07Z",
+            "pr_title": "ISS-3002: Add mailing address tokenization runbook",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3887"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T14:34:24Z",
+            "pr_title": "ISS-3002: Add mailing address tokenization runbook",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3887"
+        }
+    ],
+    "3884": [
+        {
+            "reviewer": "Raviteja255997",
+            "timestamp": "2024-09-16T05:05:44Z",
+            "pr_title": "ISS-3292: Create Homewise CO Document Ordering Bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3884"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-16T06:59:36Z",
+            "pr_title": "ISS-3292: Create Homewise CO Document Ordering Bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3884"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-26T14:36:35Z",
+            "pr_title": "ISS-3292: Create Homewise CO Document Ordering Bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3884"
+        }
+    ],
+    "3871": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-13T07:28:32Z",
+            "pr_title": "[ISS-3125] general reminder cron added + djlinter formatter added",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3871"
+        }
+    ],
+    "3860": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-12T09:09:59Z",
+            "pr_title": "ISS-3190: package name",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3860"
+        },
+        {
+            "reviewer": "kcbiradar",
+            "timestamp": "2024-09-12T09:12:20Z",
+            "pr_title": "ISS-3190: package name",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3860"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T07:17:56Z",
+            "pr_title": "ISS-3190: package name",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3860"
+        }
+    ],
+    "3858": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-12T05:18:27Z",
+            "pr_title": "Iss 2764 auto update documents and confirmation number",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3858"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:35:34Z",
+            "pr_title": "Iss 2764 auto update documents and confirmation number",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3858"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T07:26:31Z",
+            "pr_title": "Iss 2764 auto update documents and confirmation number",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3858"
+        }
+    ],
+    "3851": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:36:49Z",
+            "pr_title": "[ISS-2194] [ISS-2725] [ISS-2730] [ISS-2190] [ISS-2191] [ISS-2554] [ISS-2556]  New assignment Algo and other feature related to Auto Assignment added",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3851"
+        }
+    ],
+    "3844": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-11T07:19:31Z",
+            "pr_title": "ISS-2629: Add Master HOA Validations",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3844"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-13T07:29:16Z",
+            "pr_title": "ISS-2629: Add Master HOA Validations",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3844"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T10:52:09Z",
+            "pr_title": "ISS-2629: Add Master HOA Validations",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3844"
+        }
+    ],
+    "3835": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:47:24Z",
+            "pr_title": "ISS-2676:ISS:3070 Rush feature for homewise bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3835"
+        },
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-12T11:46:14Z",
+            "pr_title": "ISS-2676:ISS:3070 Rush feature for homewise bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3835"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T13:35:23Z",
+            "pr_title": "ISS-2676:ISS:3070 Rush feature for homewise bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3835"
+        }
+    ],
+    "3833": [
+        {
+            "reviewer": "Raviteja255997",
+            "timestamp": "2024-09-09T05:17:07Z",
+            "pr_title": "ISS-3035: Finder Scrapper to automatically trigger the Homewise bot for NC state",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3833"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-11T07:22:49Z",
+            "pr_title": "ISS-3035: Finder Scrapper to automatically trigger the Homewise bot for NC state",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3833"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:51:24Z",
+            "pr_title": "ISS-3035: Finder Scrapper to automatically trigger the Homewise bot for NC state",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3833"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-29T06:51:11Z",
+            "pr_title": "ISS-3035: Finder Scrapper to automatically trigger the Homewise bot for NC state",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3833"
+        }
+    ],
+    "3832": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-23T11:19:26Z",
+            "pr_title": "ISS-2916: Softpro document breakup",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3832"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-23T13:12:53Z",
+            "pr_title": "ISS-2916: Softpro document breakup",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3832"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T10:32:03Z",
+            "pr_title": "ISS-2916: Softpro document breakup",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3832"
+        }
+    ],
+    "3829": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:50:42Z",
+            "pr_title": "ISS-2802 File Service client code added",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3829"
+        }
+    ],
+    "3826": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-11T07:25:25Z",
+            "pr_title": "ISS-2923: Document Upload Validation for Lien Search",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3826"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:48:32Z",
+            "pr_title": "ISS-2923: Document Upload Validation for Lien Search",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3826"
+        }
+    ],
+    "3816": [
+        {
+            "reviewer": "mittamahesh12",
+            "timestamp": "2024-09-23T11:30:20Z",
+            "pr_title": "ISS-3385: Confirmation numbers and screen shot upload revamp",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3816"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-25T17:12:34Z",
+            "pr_title": "ISS-3385: Confirmation numbers and screen shot upload revamp",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3816"
+        }
+    ],
+    "3811": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-05T13:02:08Z",
+            "pr_title": "ISS-2813: New changes to the \"Update tagging status\" logic",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3811"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-09T12:01:27Z",
+            "pr_title": "ISS-2813: New changes to the \"Update tagging status\" logic",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3811"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T08:18:15Z",
+            "pr_title": "ISS-2813: New changes to the \"Update tagging status\" logic",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3811"
+        }
+    ],
+    "3800": [
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-09-04T19:08:55Z",
+            "pr_title": "Conditinally run preview environment",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3800"
+        }
+    ],
+    "3776": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-06T10:51:55Z",
+            "pr_title": "ISS-2919-Modify Guardian Automatic Reminder Email to Display Only First Name",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3776"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-06T10:54:03Z",
+            "pr_title": "ISS-2919-Modify Guardian Automatic Reminder Email to Display Only First Name",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3776"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:45:46Z",
+            "pr_title": "ISS-2919-Modify Guardian Automatic Reminder Email to Display Only First Name",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3776"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T08:11:24Z",
+            "pr_title": "ISS-2919-Modify Guardian Automatic Reminder Email to Display Only First Name",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3776"
+        }
+    ],
+    "3773": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-04T04:13:08Z",
+            "pr_title": "ISS-2998: Finder Scrapper to automatically trigger the Community Archives bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3773"
+        },
+        {
+            "reviewer": "mariocodesforfun",
+            "timestamp": "2024-09-05T12:27:36Z",
+            "pr_title": "ISS-2998: Finder Scrapper to automatically trigger the Community Archives bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3773"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:46:53Z",
+            "pr_title": "ISS-2998: Finder Scrapper to automatically trigger the Community Archives bot",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3773"
+        }
+    ],
+    "3760": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-05T13:43:59Z",
+            "pr_title": "ISS-1893: Fix various Pay First issues",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3760"
+        },
+        {
+            "reviewer": "kcbiradar",
+            "timestamp": "2024-09-05T14:22:16Z",
+            "pr_title": "ISS-1893: Fix various Pay First issues",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3760"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-11T07:38:55Z",
+            "pr_title": "ISS-1893: Fix various Pay First issues",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3760"
+        }
+    ],
+    "3744": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:46:37Z",
+            "pr_title": " water and sanitation district",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3744"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T08:02:00Z",
+            "pr_title": " water and sanitation district",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3744"
+        }
+    ],
+    "3732": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:46:18Z",
+            "pr_title": "Iss 2651 client configuration",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3732"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-18T13:27:30Z",
+            "pr_title": "Iss 2651 client configuration",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3732"
+        }
+    ],
+    "3701": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-08-26T05:28:47Z",
+            "pr_title": "ISS-2032: Run scrapper as soon as order is created",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3701"
+        },
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-08-28T07:03:51Z",
+            "pr_title": "ISS-2032: Run scrapper as soon as order is created",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3701"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-12T05:19:29Z",
+            "pr_title": "ISS-2032: Run scrapper as soon as order is created",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3701"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:44:25Z",
+            "pr_title": "ISS-2032: Run scrapper as soon as order is created",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3701"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T07:51:02Z",
+            "pr_title": "ISS-2032: Run scrapper as soon as order is created",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3701"
+        }
+    ],
+    "3688": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T07:33:16Z",
+            "pr_title": "Iss 2788 file upload others section enhancements",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3688"
+        }
+    ],
+    "3664": [
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:40:12Z",
+            "pr_title": " ISS-1968 - Auto doc checker implemented",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3664"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-09-27T07:47:36Z",
+            "pr_title": " ISS-1968 - Auto doc checker implemented",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3664"
+        }
+    ],
+    "3635": [
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-08-16T07:49:06Z",
+            "pr_title": "[ISS-2553] more tags added for bylaws assignment",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3635"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-08-21T12:45:27Z",
+            "pr_title": "[ISS-2553] more tags added for bylaws assignment",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3635"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:41:00Z",
+            "pr_title": "[ISS-2553] more tags added for bylaws assignment",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3635"
+        }
+    ],
+    "3624": [
+        {
+            "reviewer": "kaskous",
+            "timestamp": "2024-08-15T12:05:44Z",
+            "pr_title": "ISS-2134: Leasing restriction flagging",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3624"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-08-15T12:28:50Z",
+            "pr_title": "ISS-2134: Leasing restriction flagging",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3624"
+        }
+    ],
+    "3567": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-08-07T09:26:30Z",
+            "pr_title": "ISS:2289: sendgrid hoa mapping",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3567"
+        },
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-09-11T10:23:58Z",
+            "pr_title": "ISS:2289: sendgrid hoa mapping",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3567"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:43:58Z",
+            "pr_title": "ISS:2289: sendgrid hoa mapping",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3567"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-17T05:35:01Z",
+            "pr_title": "ISS:2289: sendgrid hoa mapping",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3567"
+        }
+    ],
+    "3446": [
+        {
+            "reviewer": "JayTechX",
+            "timestamp": "2024-07-22T08:42:25Z",
+            "pr_title": "PB-986: Refresh cost included in invoice total for non refresh invoices",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3446"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-07-22T09:00:34Z",
+            "pr_title": "PB-986: Refresh cost included in invoice total for non refresh invoices",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3446"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-07-22T10:01:10Z",
+            "pr_title": "PB-986: Refresh cost included in invoice total for non refresh invoices",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3446"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-07-24T07:51:49Z",
+            "pr_title": "PB-986: Refresh cost included in invoice total for non refresh invoices",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3446"
+        }
+    ],
+    "3444": [
+        {
+            "reviewer": "kaskous",
+            "timestamp": "2024-07-22T07:59:57Z",
+            "pr_title": "DEV-4518: Add dynamic reassign",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3444"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-07-22T08:42:17Z",
+            "pr_title": "DEV-4518: Add dynamic reassign",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3444"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-07-24T07:52:33Z",
+            "pr_title": "DEV-4518: Add dynamic reassign",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3444"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-07-29T14:14:01Z",
+            "pr_title": "DEV-4518: Add dynamic reassign",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3444"
+        }
+    ],
+    "3434": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-07-24T07:58:15Z",
+            "pr_title": "DEV-4522 Revert others file copying after ocr and add few enhancements",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3434"
+        },
+        {
+            "reviewer": "mariocodesforfun",
+            "timestamp": "2024-07-25T04:26:01Z",
+            "pr_title": "DEV-4522 Revert others file copying after ocr and add few enhancements",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3434"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:43:38Z",
+            "pr_title": "DEV-4522 Revert others file copying after ocr and add few enhancements",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3434"
+        }
+    ],
+    "3411": [
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-07-19T05:48:26Z",
+            "pr_title": "Extraction Platform UI",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3411"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-07-24T08:11:24Z",
+            "pr_title": "Extraction Platform UI",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3411"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-09-12T09:43:11Z",
+            "pr_title": "Extraction Platform UI",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3411"
+        },
+        {
+            "reviewer": "janaki-sasidhar",
+            "timestamp": "2024-09-17T05:35:16Z",
+            "pr_title": "Extraction Platform UI",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3411"
+        }
+    ],
+    "3383": [
+        {
+            "reviewer": "JayTechX",
+            "timestamp": "2024-07-09T14:23:03Z",
+            "pr_title": "DEV-4434: FPOdashboard",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3383"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-07-10T10:46:55Z",
+            "pr_title": "DEV-4434: FPOdashboard",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3383"
+        }
+    ],
+    "3331": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-07-02T14:07:29Z",
+            "pr_title": "DEV-4377: Update Email Preferences Links",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3331"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-07-08T12:53:49Z",
+            "pr_title": "DEV-4377: Update Email Preferences Links",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3331"
+        }
+    ],
+    "3325": [
+        {
+            "reviewer": "shubhammandlas",
+            "timestamp": "2024-06-26T10:22:50Z",
+            "pr_title": "DEV-4440 fixing cs messages sanity check",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3325"
+        },
+        {
+            "reviewer": "kaskous",
+            "timestamp": "2024-06-26T10:32:11Z",
+            "pr_title": "DEV-4440 fixing cs messages sanity check",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3325"
+        },
+        {
+            "reviewer": "itsneel",
+            "timestamp": "2024-06-26T10:32:33Z",
+            "pr_title": "DEV-4440 fixing cs messages sanity check",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3325"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-06-26T11:00:08Z",
+            "pr_title": "DEV-4440 fixing cs messages sanity check",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3325"
+        }
+    ],
+    "3293": [
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-06-20T07:54:46Z",
+            "pr_title": "DEV-4162: Create progress minibar on workflow",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3293"
+        },
+        {
+            "reviewer": "kaskous",
+            "timestamp": "2024-06-21T07:17:17Z",
+            "pr_title": "DEV-4162: Create progress minibar on workflow",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3293"
+        }
+    ],
+    "3128": [
+        {
+            "reviewer": "kaskous",
+            "timestamp": "2024-05-15T11:43:03Z",
+            "pr_title": "DevRev return in case of old tickets not having new properties",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3128"
+        },
+        {
+            "reviewer": "amanhoa",
+            "timestamp": "2024-05-16T11:42:32Z",
+            "pr_title": "DevRev return in case of old tickets not having new properties",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3128"
+        },
+        {
+            "reviewer": "l4z0-space",
+            "timestamp": "2024-05-16T12:40:36Z",
+            "pr_title": "DevRev return in case of old tickets not having new properties",
+            "pr_url": "https://github.com/InspectHOA/inspecthoa/pull/3128"
+        }
+    ]
+}
