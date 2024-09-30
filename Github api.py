@@ -12,6 +12,10 @@ REPO_NAME = "inspecthoa"
 API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/pulls"
 
 # Headers for the request
+if GITHUB_TOKEN:
+    print("Received github token")
+
+
 headers = {
     "Authorization": f"token {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json",
