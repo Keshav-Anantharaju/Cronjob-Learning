@@ -14,6 +14,7 @@ API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/pulls"
 # Headers for the request
 if GITHUB_TOKEN:
     print("Received github token")
+print(GITHUB_TOKEN)
 
 
 headers = {
